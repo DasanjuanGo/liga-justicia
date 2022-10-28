@@ -12,4 +12,4 @@ totalmente editado desde gitHub !!!
 
 
 ## Hola mundo
-cambios realizados desde el local
+cambios realizados desde el gitHub
